@@ -1,0 +1,2 @@
+scoreboard players remove @s Item 1
+give @s armor_stand{display:{Name:'[{"text":"Condensed Dragon Breath","italic":false}]'},EntityTag:{Invisible:1b,Tags:["dragon_breath"]},CanPlaceOn:[bedrock],Enchantments:[{}]}

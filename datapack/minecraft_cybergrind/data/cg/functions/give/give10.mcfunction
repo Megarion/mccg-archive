@@ -1,0 +1,2 @@
+scoreboard players remove @s Item 1
+give @p minecraft:lingering_potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:25,Amplifier:9,Duration:80}],display:{Name:"\"Sender of the Skies\""},Enchantments:[{}]}

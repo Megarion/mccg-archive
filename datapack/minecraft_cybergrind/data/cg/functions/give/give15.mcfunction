@@ -1,0 +1,2 @@
+scoreboard players remove @s Item 1
+give @s minecraft:splash_potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:1,Amplifier:2,Duration:600},{Id:6,Amplifier:1}],display:{Name:"\"Speed Boost\""},Enchantments:[{}]}

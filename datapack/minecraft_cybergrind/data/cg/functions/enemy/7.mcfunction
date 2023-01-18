@@ -1,0 +1,1 @@
+summon minecraft:wither ~ ~25 ~ {CustomName:"\"Wither\"",CustomNameVisible:0,PersistenceRequired:1b}

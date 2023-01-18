@@ -1,0 +1,2 @@
+scoreboard players remove @s Item 1
+give @s minecraft:splash_potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:10,Amplifier:3,Duration:100},{Id:11,Amplifier:2,Duration:300}],display:{Name:"\"Defense Boost\""},Enchantments:[{}]}

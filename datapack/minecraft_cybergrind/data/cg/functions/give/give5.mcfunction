@@ -1,0 +1,2 @@
+scoreboard players remove @s Item 1
+give @s armor_stand{display:{Name:'[{"text":"Withered Fangs","italic":false}]'},EntityTag:{Invisible:1b,Tags:["evoker_fangs"]},CanPlaceOn:[bedrock],Enchantments:[{}]}
