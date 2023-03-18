@@ -1,6 +1,7 @@
 execute as @a[gamemode=adventure] run execute if score @s hasDied matches 1.. run function cg:spectator
 execute as @a[gamemode=adventure,advancements={adventure/totem_of_undying=true}] run function cg:totem_of_undying
 execute as @a[team=player,gamemode=!adventure] run team leave @s
+# execute as @a[gamemode=adventure] run effect give @s health_boost 999999 9 true
 execute if score PlayerCount VAR matches ..0 run execute unless score Current VAR matches 0 run function cg:stop
 execute unless score Current VAR matches 0 run execute if score TimerItem VAR matches ..0 run function cg:summonitem
 execute unless score Current VAR matches 0 run execute if score EnemyCount VAR matches ..0 run function cg:spawn

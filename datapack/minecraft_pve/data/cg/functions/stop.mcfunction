@@ -4,4 +4,4 @@ schedule function cg:killenemies 5s
 schedule function cg:resetborder 5s
 title @a times 20 20 100
 title @a title [{"text":"Game ended!","color":"yellow"}]
-tellraw @a {"text":"Cybergrind ended","color":"gold","bold":true}
+tellraw @a {"text":"Game ended","color":"gold","bold":true}

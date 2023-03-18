@@ -1,8 +1,6 @@
 summon minecraft:zombified_piglin ~ ~1 ~ {CustomName:"\"Zombified Piglin\"",HandItems:[{id:"minecraft:golden_sword",Count:1}],CustomNameVisible:0,PersistenceRequired:1b}
 summon minecraft:zombified_piglin ~ ~1 ~ {CustomName:"\"Zombified Piglin\"",HandItems:[{id:"minecraft:golden_sword",Count:1}],CustomNameVisible:0,PersistenceRequired:1b}
 summon minecraft:zombified_piglin ~ ~1 ~ {CustomName:"\"Zombified Piglin\"",HandItems:[{id:"minecraft:golden_sword",Count:1}],CustomNameVisible:0,PersistenceRequired:1b}
-summon minecraft:ghast ~ ~25 ~ {CustomName:"\"Ghast\"",CustomNameVisible:0,PersistenceRequired:1b}
-summon minecraft:ghast ~ ~25 ~ {CustomName:"\"Ghast\"",CustomNameVisible:0,PersistenceRequired:1b}
 summon minecraft:stray ~ ~1 ~ {CustomName:"\"Stray\"",HandItems:[{id:"minecraft:bow",Count:1}],CustomNameVisible:0,PersistenceRequired:1b}
 summon minecraft:stray ~ ~1 ~ {CustomName:"\"Stray\"",HandItems:[{id:"minecraft:bow",Count:1}],CustomNameVisible:0,PersistenceRequired:1b}
 summon minecraft:stray ~ ~1 ~ {CustomName:"\"Stray\"",HandItems:[{id:"minecraft:bow",Count:1}],CustomNameVisible:0,PersistenceRequired:1b}
